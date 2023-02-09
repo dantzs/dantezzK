@@ -3,7 +3,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dz1vs/)
 
-![dantzK GitHub stats](https://github-readme-stats.vercel.app/api?username=dantzK&show_icons=true&theme=dracula)
+![dantzK GitHub stats](https://github-readme-stats.vercel.app/api?username=dantzzK&show_icons=true&theme=dracula)
 
 ## Tecnologias que uso no meu dia a dia 
 
