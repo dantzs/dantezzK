@@ -98,4 +98,4 @@
 
 ## &nbsp;GitHub Analytics
 
-![dantzK GitHub stats](https://github-readme-stats.vercel.app/api?username=dantzzK&show_icons=true&theme=dracula)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dantezzK&show_icons=true&theme=transparent)
