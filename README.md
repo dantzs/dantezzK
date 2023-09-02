@@ -1,22 +1,99 @@
-### Olá! Meu nome é Marcelo🤚
+
+<h1 align="left">Hi, 🍕 I'm Marcelo henrique
+ 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=LSB30&color=8586f6" alt="Profile views" /> </p>
+
 <br>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dz1vs/)
+ ## &nbsp; <img src="./oculos.gif" width="30" align="center"> &nbsp;About me
 
-![dantzK GitHub stats](https://github-readme-stats.vercel.app/api?username=dantezzK&show_icons=true&theme=dracula)
+- 💻 I'm Full-Stack Developer;
 
-## Tecnologias que uso no meu dia a dia 
+- 🚀 My portfolio: **[dantezzK](#)**;
+ 
+- 👨‍🎓 I'm studying **Software Engineering and Development.**;
 
-<div style="display: inline_block"><br>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt=""BootsTrap>
-   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="Jquerry">
-<div><br>
 
-### Tecnologias que estou estuando
+
 <br>
-   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javaScript">
-   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass">
+
+## 🛠 &nbsp;Tech Stack
+
+<div align="left">
+ <p>
+ <!-- Java -->
+    <a href=''>
+      <img src="https://skillicons.dev/icons?i=java"/>
+    </a>
+     <!-- Spring boot -->
+    <a href=''>
+      <img src="https://skillicons.dev/icons?i=spring"/>
+    </a>
+    <!-- React -->
+    <a href=''>
+      <img src="https://skillicons.dev/icons?i=react"/>
+    </a>
+    <!-- Node -->
+    <a href=''>
+      <img src="https://skillicons.dev/icons?i=nodejs"/>
+    </a>
+    <!-- js -->
+    <a href='https://nodejs.org/en/'>
+      <img src="https://skillicons.dev/icons?i=javascript"/>
+    </a>
+    <!-- ts -->
+    <a href=''>
+     <img src="https://skillicons.dev/icons?i=typescript"/>
+    </a>
+    <a href=''>
+     <img src="https://skillicons.dev/icons?i=postgresql"/>
+    </a>
+    <a href=""> 
+      <img src="https://skillicons.dev/icons?i=mysql"/>
+    </a>
+    <a href=""> 
+      <img src="https://skillicons.dev/icons?i=sass"/>
+    </a>
+    <a href=""> 
+      <img src="https://skillicons.dev/icons?i=css"/>
+    </a>
+    <a href=""> 
+      <img src="https://skillicons.dev/icons?i=tailwind"/>
+    </a>
+      <a href=""> 
+      <img src="https://skillicons.dev/icons?i=mongo"/>
+    </a>
+    </a>
+      <a href=""> 
+      <img src="https://skillicons.dev/icons?i=docker"/>
+    </a>
+
+        
+ </p>
+
+</div>
+  
+<br>
+
+## 👨🏻‍💼 &nbsp;Connect with Me
+
+<p align="left">
+ 
+ <a href="#" alt="Linkedin">
+  <img width="140px" src="https://img.shields.io/badge/-Linkedin-rgb(25, 27, 30)?style=for-the-badge&logo=Linkedin&logoColor=rgb(150, 118, 228)&link=https://www.linkedin.com/in/evander-inacio"/> 
+ </a>
+
+ <a href="#" alt="Gmail">
+  <img width="113px" src="https://img.shields.io/badge/-Gmail-rgb(25, 27, 30)?style=for-the-badge&logo=Gmail&logoColor=rgb(150, 118, 228)&link=mailto:evander.20116@gmail.com"/> 
+ </a>
+ 
+ <a href="#" alt="Portfolio">
+  <img width="192px" src="https://img.shields.io/badge/my_portfolio-rgb(25, 27, 30)?style=for-the-badge&logo=ko-fi&logoColor=rgb(150, 118, 228)&link=https://www.evander.com.br/"/>
+ </a>
+
+ </p>
+
+<br>
+
+## &nbsp;GitHub Analytics
