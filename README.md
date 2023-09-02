@@ -97,3 +97,5 @@
 <br>
 
 ## &nbsp;GitHub Analytics
+
+![dantzK GitHub stats](https://github-readme-stats.vercel.app/api?username=dantzzK&show_icons=true&theme=dracula)
