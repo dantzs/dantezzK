@@ -10,7 +10,7 @@
 
 - 💻 I'm Full-Stack Developer;
 
-- 🚀 My portfolio: **[dantezzK](#)**;
+- 🚀 My portfolio: **[dantzs](#)**;
  
 - 👨‍🎓 I'm studying **Software Engineering and Development.**;
 
@@ -85,7 +85,7 @@
  </a>
 
  <a href="#" alt="Gmail">
-  <img width="113px" src="https://img.shields.io/badge/-Gmail-rgb(25, 27, 30)?style=for-the-badge&logo=Gmail&logoColor=rgb(150, 118, 228)&link=mailto:evander.20116@gmail.com"/> 
+  <img width="113px" src="https://img.shields.io/badge/-Gmail-rgb(25, 27, 30)?style=for-the-badge&logo=Gmail&logoColor=rgb(150, 118, 228)&link=mailto:marcelohrs2005@gmail.com"/> 
  </a>
  
  <a href="#" alt="Portfolio">
@@ -98,4 +98,4 @@
 
 ## &nbsp;GitHub Analytics
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dantezzK&show_icons=true&theme=transparent)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dantzs&show_icons=true&theme=transparent)
