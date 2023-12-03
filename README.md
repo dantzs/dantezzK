@@ -6,7 +6,7 @@
 
 <br>
 
- ## &nbsp; <img src="./oculos.gif" width="30" align="center"> &nbsp;About me
+ ## &nbsp; <img src="./oculos.gif" width="30" align="center">About me
 
 - 💻 I'm Full-Stack Developer;
 
