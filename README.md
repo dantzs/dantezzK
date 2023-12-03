@@ -2,7 +2,7 @@
 <h1 align="left">Hi, I'm Marcelo
  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=LSB30&color=8586f6" alt="Profile views" /> </p>
+
 
 <br>
 
@@ -77,23 +77,7 @@
 <br>
 
 ## 👨🏻‍💼 &nbsp;Connect with Me
-
-<p align="left">
- 
- <a href="#" alt="Linkedin">
-  <img width="140px" src="https://img.shields.io/badge/-Linkedin-rgb(25, 27, 30)?style=for-the-badge&logo=Linkedin&logoColor=rgb(150, 118, 228)&link=https://www.linkedin.com/in/evander-inacio"/> 
- </a>
-
- <a href="#" alt="Gmail">
-  <img width="113px" src="https://img.shields.io/badge/-Gmail-rgb(25, 27, 30)?style=for-the-badge&logo=Gmail&logoColor=rgb(150, 118, 228)&link=mailto:marcelohrs2005@gmail.com"/> 
- </a>
- 
- <a href="#" alt="Portfolio">
-  <img width="192px" src="https://img.shields.io/badge/my_portfolio-rgb(25, 27, 30)?style=for-the-badge&logo=ko-fi&logoColor=rgb(150, 118, 228)&link=https://www.evander.com.br/"/>
- </a>
-
- </p>
-
+---
 <br>
 
 ## &nbsp;GitHub Analytics
