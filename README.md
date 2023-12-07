@@ -7,10 +7,6 @@
 <br>
 
  ## About me
-
-- 💻 I'm Full-Stack Developer;
-
-- 🚀 My portfolio: **[dantzs](#)**;
  
 - 👨‍🎓 I'm studying **Software Engineering and Development.**;
 
@@ -22,14 +18,6 @@
 
 <div align="left">
  <p>
- <!-- Java -->
-    <a href=''>
-      <img src="https://skillicons.dev/icons?i=java"/>
-    </a>
-     <!-- Spring boot -->
-    <a href=''>
-      <img src="https://skillicons.dev/icons?i=spring"/>
-    </a>
     <!-- React -->
     <a href=''>
       <img src="https://skillicons.dev/icons?i=react"/>
