@@ -1,14 +1,54 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#845EC2&height=120&section=header"/>
 
-<h1 align="left">Hi, I'm Marcelo
- 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=845EC2&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Marcelo+;I'm+18+years+old;I'm+from+Brazil;I+Graduated+software+engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dantzs&bg_color=0D1117&color=ffff&line=ffff&point=845EC2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dantzs&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
+
+
+
+
+<div align="center"> 
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href = "#"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
 
 <br>
+ <table>
+  <tr>
+     <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=dantzs&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
+        alt="Github stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=dantzs&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=dantzs&theme=dark&hide_border=false"
+        alt="Github stats"
+      />
+    </td>
+  </tr>
+</table>
 
- ## About me
- 
-- 👨‍🎓 I'm studying **Software Engineering and Development.**;
+<br>
 
 
 
@@ -70,4 +110,32 @@
 
 ## &nbsp;GitHub Analytics
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dantzs&show_icons=true&theme=transparent)
+<table>
+  <tr>
+     <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=dantzs&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
+        alt="Github stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=dantzs&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=dantzs&theme=dark&hide_border=false"
+        alt="Github stats"
+      />
+    </td>
+  </tr>
+</table>
+<br />
+ 
+ 
