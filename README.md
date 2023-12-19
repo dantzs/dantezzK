@@ -56,8 +56,9 @@
 
 ## 🛠 &nbsp;Tech Stack
 
+## &nbsp;Backend
 <div align="left">
-  <h2>Backend</h2>
+  
   <p>
     <a href=''>
       <img src="https://skillicons.dev/icons?i=cs"/>
@@ -83,12 +84,12 @@
       <img src="https://skillicons.dev/icons?i=mysql"/>
     </a>
     </a>
-
   </p>
-
-
   <br>
-  <h2>FrontEnd</h2>
+  
+  ## &nbsp;Frontend
+ 
+  <div align="left">
  <p>
     <!-- React -->
     <a href=''>
@@ -112,17 +113,12 @@
     </a>
     <a href=""> 
       <img src="https://skillicons.dev/icons?i=tailwind"/>
-    </a>
-
-        
+    </a>    
  </p>
-
 </div>
   
 <br>
 
-## 👨🏻‍💼 &nbsp;Connect with Me
----
 <br>
 
 ## &nbsp;GitHub Analytics
