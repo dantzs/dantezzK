@@ -57,44 +57,61 @@
 ## 🛠 &nbsp;Tech Stack
 
 <div align="left">
+  <h2>Backend</h2>
+  <p>
+    <a href=''>
+      <img src="https://skillicons.dev/icons?i=cs"/>
+    </a>
+    <a href=''>
+      <img src="https://skillicons.dev/icons?i=ts"/>
+    </a>
+    <a href=''>
+      <img src="https://skillicons.dev/icons?i=dotnet"/>
+    </a>
+    <a href=''>
+      <img src="https://skillicons.dev/icons?i=nodejs"/>
+    </a>
+    <a href=''>
+      <img src="https://skillicons.dev/icons?i=sequelize"/>
+    </a>
+    <a href=''>
+      <img src="https://skillicons.dev/icons?i=docker"/>
+    </a>
+    <a href=''>
+      <img src="https://skillicons.dev/icons?i=postgres"/>
+      <a href=''>
+      <img src="https://skillicons.dev/icons?i=mysql"/>
+    </a>
+    </a>
+
+  </p>
+
+
+  <br>
+  <h2>FrontEnd</h2>
  <p>
     <!-- React -->
     <a href=''>
       <img src="https://skillicons.dev/icons?i=react"/>
     </a>
-    <!-- Node -->
-    <a href=''>
-      <img src="https://skillicons.dev/icons?i=nodejs"/>
+   <a href=''>
+      <img src="https://skillicons.dev/icons?i=nextjs"/>
+    </a>
+   <a href=''>
+      <img src="https://skillicons.dev/icons?i=html"/>
     </a>
     <!-- js -->
     <a href='https://nodejs.org/en/'>
       <img src="https://skillicons.dev/icons?i=javascript"/>
     </a>
-    <!-- ts -->
-    <a href=''>
-     <img src="https://skillicons.dev/icons?i=typescript"/>
-    </a>
-    <a href=''>
-     <img src="https://skillicons.dev/icons?i=postgresql"/>
-    </a>
-    <a href=""> 
-      <img src="https://skillicons.dev/icons?i=mysql"/>
+       <a href=""> 
+      <img src="https://skillicons.dev/icons?i=css"/>
     </a>
     <a href=""> 
       <img src="https://skillicons.dev/icons?i=sass"/>
     </a>
     <a href=""> 
-      <img src="https://skillicons.dev/icons?i=css"/>
-    </a>
-    <a href=""> 
       <img src="https://skillicons.dev/icons?i=tailwind"/>
-    </a>
-      <a href=""> 
-      <img src="https://skillicons.dev/icons?i=mongo"/>
-    </a>
-    </a>
-      <a href=""> 
-      <img src="https://skillicons.dev/icons?i=docker"/>
     </a>
 
         
