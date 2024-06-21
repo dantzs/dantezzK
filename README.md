@@ -57,25 +57,13 @@
       <img src="https://skillicons.dev/icons?i=cs"/>
     </a>
     <a href=''>
-      <img src="https://skillicons.dev/icons?i=ts"/>
-    </a>
-    <a href=''>
       <img src="https://skillicons.dev/icons?i=dotnet"/>
-    </a>
-    <a href=''>
-      <img src="https://skillicons.dev/icons?i=nodejs"/>
-    </a>
-    <a href=''>
-      <img src="https://skillicons.dev/icons?i=sequelize"/>
     </a>
     <a href=''>
       <img src="https://skillicons.dev/icons?i=docker"/>
     </a>
     <a href=''>
-      <img src="https://skillicons.dev/icons?i=postgres"/>
-      <a href=''>
-      <img src="https://skillicons.dev/icons?i=mysql"/>
-    </a>
+      <img src="https://skillicons.dev/icons?i=sqlserver"/>
     </a>
   </p>
   <br>
