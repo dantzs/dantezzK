@@ -63,7 +63,7 @@
       <img src="https://skillicons.dev/icons?i=docker"/>
     </a>
     <a href=''>
-      <img src="https://skillicons.dev/icons?i=sqlserver"/>
+      <img src="[https://skillicons.dev/icons?i=sqlserver](https://go-skill-icons.vercel.app/api/icons?i=sqlserver)"/>
     </a>
   </p>
   <br>
