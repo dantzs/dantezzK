@@ -60,10 +60,10 @@
       <img src="https://skillicons.dev/icons?i=dotnet"/>
     </a>
     <a href=''>
-      <img src="https://skillicons.dev/icons?i=docker"/>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver"/>
     </a>
     <a href=''>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver"/>
+      <img src="https://skillicons.dev/icons?i=docker"/>
     </a>
   </p>
   <br>
@@ -73,24 +73,21 @@
   <div align="left">
  <p>
     <!-- React -->
+      <a href=''>
+      <img src="https://skillicons.dev/icons?i=html"/>
+    </a>
+       </a>
+       <a href=""> 
+      <img src="https://skillicons.dev/icons?i=css"/>
+    </a>
+    <!-- js -->
+    <a href='https://nodejs.org/en/'>
+      <img src="https://skillicons.dev/icons?i=javascript"/>
     <a href=''>
       <img src="https://skillicons.dev/icons?i=react"/>
     </a>
    <a href=''>
       <img src="https://skillicons.dev/icons?i=nextjs"/>
-    </a>
-   <a href=''>
-      <img src="https://skillicons.dev/icons?i=html"/>
-    </a>
-    <!-- js -->
-    <a href='https://nodejs.org/en/'>
-      <img src="https://skillicons.dev/icons?i=javascript"/>
-    </a>
-       <a href=""> 
-      <img src="https://skillicons.dev/icons?i=css"/>
-    </a>
-    <a href=""> 
-      <img src="https://skillicons.dev/icons?i=sass"/>
     </a>
     <a href=""> 
       <img src="https://skillicons.dev/icons?i=tailwind"/>
