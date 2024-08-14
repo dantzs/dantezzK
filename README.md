@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dantzs&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=marcelosrg&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 
@@ -19,14 +19,14 @@
      <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api?username=dantzs&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
+        src="https://github-readme-stats.vercel.app/api?username=marcelosrg&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
         alt="Github stats"
       />
     </td>
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=dantzs&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelosrg&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Github stats"
       />
     </td>
@@ -34,7 +34,7 @@
       <br />
       <img
         align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=dantzs&theme=dark&hide_border=false"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=marcelosrg&theme=dark&hide_border=false"
         alt="Github stats"
       />
     </td>
