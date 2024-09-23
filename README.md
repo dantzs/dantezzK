@@ -62,9 +62,6 @@
     <a href=''>
       <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver"/>
     </a>
-    <a href=''>
-      <img src="https://skillicons.dev/icons?i=docker"/>
-    </a>
   </p>
   <br>
   
